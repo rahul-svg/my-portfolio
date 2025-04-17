@@ -28,8 +28,8 @@ export const ProjectData = [
         "title": "Portfolio",
         "about": "My Portfolio website is designed to showcase my work, offering a platform for potential clients and employers to explore the projects and skills I have developed. Built using HTML, CSS, JavaScript, and React, it highlights my professional journey and provides a creative space to display my work and achievements. It serves as both a personal branding tool and a way to demonstrate my front-end development skills.",
         "tags": ["HTML", "CSS", "JavaScript", "React"],
-        "demo": "https://portfolio-283c5.web.app/",
-        "github": "https://github.com/rahul-svg/Portfolio",
+        "demo": "https://my-portfolio-pefi.onrender.com",
+        "github": "https://github.com/rahul-svg/my-portfolio",
         "image": "https://cdn.sanity.io/images/81pocpw8/production/362d333b7dccf29155490c6a383a35c553eea278-3784x1791.png?rect=2,0,3780,1791&w=800&h=379&fit=clip&auto=format"
       }
       

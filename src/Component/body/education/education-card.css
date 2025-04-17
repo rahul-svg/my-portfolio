@@ -1,0 +1,71 @@
+.education-card{
+    display:flex;
+    flex:1;
+    justify-content: space-between;
+    align-items: center;
+    margin: 16px 0px;
+    padding: 8px 0px;
+
+}
+.education-info{
+    padding:6px 0px;
+}
+
+.education-photo{
+    width:15%;
+}
+
+.education-class{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.education-course{
+    display:flex;
+    font-size: 20px;
+    font-weight: 400;
+    background-color: aquamarine;
+    border-radius: 4px;
+}
+
+.education-board{
+    display:flex;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: rgb(0, 162, 255);
+    border-radius: 4px;
+}
+
+.education-percent{
+    display:flex;
+    font-size: 15px;
+    font-weight: 600;
+
+}
+
+.date{
+    display:flex;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.start{
+    margin-right: 8px;
+    
+}
+
+
+
+@media only screen and (max-width:720px){
+    .education-photo{
+        width: 40%;
+    }
+    .education-card{
+        flex-direction: column-reverse;
+    }
+    .education-info{
+        margin-left:0px;
+        margin-top: 12px;
+    }
+    
+}
